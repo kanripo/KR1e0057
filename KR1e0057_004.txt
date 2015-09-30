@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋纂言
-#+DATE: 2015-09-23 09:39:55
-#+PROPERTY: JUAN 4
+#+DATE: 2015-08-24 22:14:49.103019
+#+PROPERTY: ID KR1e0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 總例卷四
 <pb:KR1e0057_WYG_004-1a>¶
 欽定四庫全書¶
 　春秋纂言總例卷四　　　　元　吳澄　撰¶
@@ -524,4 +526,3 @@
 　　　人氏之喪至自齊(僖/元)¶
 　　(以上魯君魯夫人之/喪自外而至者三)¶
 　春秋纂言總例卷四¶
-

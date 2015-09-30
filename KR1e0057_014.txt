@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋纂言
-#+DATE: 2015-09-23 09:39:55
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:14:49.346332
+#+PROPERTY: ID KR1e0057
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷七
 <pb:KR1e0057_WYG_014-1a>¶
 欽定四庫全書¶
 　春秋纂言卷七　　　　　　元　吳澄　撰¶
@@ -794,4 +796,3 @@
 　¶
 　¶
 　春秋纂言卷七¶
-
